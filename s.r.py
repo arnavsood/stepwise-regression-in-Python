@@ -1,4 +1,4 @@
-//remember to populate with a vector of 1 before using this function
+# remember to populate with a vector of 1 before using this function
 
 def backward_elimination(x,y_dependent,sl):
     var=np.arange(x.shape[1])
